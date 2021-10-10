@@ -5,6 +5,11 @@ title: Leites
 Uma coleção de materiais úteis que foram utilizados na disciplina em períodos passados.
 
 ## Provas
+### 2020.2e
+**Prova** | **Reposição?** | **Links**  |
+:---: | :---:| :---: |
+1º estágio - Tarde | Não | [Link](https://drive.google.com/file/d/1sM3DxV7tt5PMP8EMXSQuvGXzHZ71qJz-/view?usp=sharing) |
+2º estágio - Tarde | Não | [Link](https://drive.google.com/file/d/1BPrGKLd_wWICcN6YKP9S2WJSPoguDATh/view?usp=sharing) |
 
 ### 2018.2
 **Prova** | **Reposição?** | **Links**  |
